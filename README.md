@@ -1,5 +1,5 @@
-Epam task5:
+Epam task4:
 
 create_schema - create database schema by running script
 
-queries - task 5 scripts
+queries - task 4 scripts
